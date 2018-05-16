@@ -1,1 +1,12 @@
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/User.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Address.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/OrderItem.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Payment.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Product.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Category.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Role.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Order.java
 /home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/JCartCoreApplication.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/OrderStatus.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Customer.java
+/home/chienpt/javaProject/jcart2/jcart-core/src/main/java/com/example/ecommerce/entity/Permission.java
